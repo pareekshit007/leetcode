@@ -8,6 +8,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/pareekshit007/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0620-not-boring-movies](https://github.com/pareekshit007/leetcode/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/pareekshit007/leetcode/tree/master/1075-project-employees-i) |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/pareekshit007/leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
 ## Array
 |  |
 | ------- |
