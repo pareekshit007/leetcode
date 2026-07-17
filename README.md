@@ -10,6 +10,7 @@
 | [1075-project-employees-i](https://github.com/pareekshit007/leetcode/tree/master/1075-project-employees-i) |
 | [1211-queries-quality-and-percentage](https://github.com/pareekshit007/leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/pareekshit007/leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1757-recyclable-and-low-fat-products](https://github.com/pareekshit007/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Array
 |  |
 | ------- |
