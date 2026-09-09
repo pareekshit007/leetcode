@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pareekshit007/leetcode/tree/master/0001-two-sum) |
+| [0905-sort-array-by-parity](https://github.com/pareekshit007/leetcode/tree/master/0905-sort-array-by-parity) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/pareekshit007/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Greedy
 |  |
@@ -23,9 +24,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/pareekshit007/leetcode/tree/master/0905-sort-array-by-parity) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/pareekshit007/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pareekshit007/leetcode/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/pareekshit007/leetcode/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
