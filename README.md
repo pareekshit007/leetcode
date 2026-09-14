@@ -16,6 +16,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/pareekshit007/leetcode/tree/master/0001-two-sum) |
 | [0905-sort-array-by-parity](https://github.com/pareekshit007/leetcode/tree/master/0905-sort-array-by-parity) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pareekshit007/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/pareekshit007/leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Greedy
 |  |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/pareekshit007/leetcode/tree/master/0905-sort-array-by-parity) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/pareekshit007/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
