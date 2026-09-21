@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pareekshit007/leetcode/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/pareekshit007/leetcode/tree/master/0046-permutations) |
 | [0905-sort-array-by-parity](https://github.com/pareekshit007/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pareekshit007/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pareekshit007/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pareekshit007/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/pareekshit007/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
