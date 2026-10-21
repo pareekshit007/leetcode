@@ -11,6 +11,7 @@
 | [0196-delete-duplicate-emails](https://github.com/pareekshit007/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/pareekshit007/leetcode/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/pareekshit007/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/pareekshit007/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0620-not-boring-movies](https://github.com/pareekshit007/leetcode/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/pareekshit007/leetcode/tree/master/1075-project-employees-i) |
 | [1211-queries-quality-and-percentage](https://github.com/pareekshit007/leetcode/tree/master/1211-queries-quality-and-percentage) |
